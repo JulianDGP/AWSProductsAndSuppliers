@@ -20,6 +20,7 @@ Desarrollar una aplicación para la gestión de inventarios y proveedores con fu
 
 ## Diseño de Arquitectura
 
+![Diagrama de Arquitectura](Diagrama AWS.png)
 ### Flujo y Funcionalidades Esperadas
 
 #### **Gestión de Proveedores**
