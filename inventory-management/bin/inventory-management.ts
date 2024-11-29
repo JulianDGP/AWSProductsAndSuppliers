@@ -12,3 +12,4 @@ new InventoryManagementStack(app, 'InventoryManagementStack', {
 
 // Carga el stack de la base de datos
 new DatabaseStack(app, 'DatabaseStack');
+
